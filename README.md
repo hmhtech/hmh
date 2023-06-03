@@ -1,51 +1,64 @@
-![](https://img.shields.io/badge/hmhtech-hammas-orange?style=for-the-badge&logo=python.svg) 
+
+____Welcome____
+
+
+<a href="https://github.com/Sarfraz-Ssb/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/Sarfraz-Ssb?label=Followers&color=green&style=flat-square"></a>
+
+<br>
+  <a href="https://github.com/Sarfraz-Ssb/termux-style/stargazers/">
+  <a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Sarfraz-Ssb/SSB.svg"/>
+  </a>
+<br>
+  <a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Sarfraz-Ssb/SSB.svg"/>
+  </a>
+  <a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Starts" src="https://img.shields.io/github/stars/Sarfraz-Ssb/SSB.svg"/>
+  </a>
+<br>
+<a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Sarfraz-Ssb/SSB.svg"/>
+  </a>
+<br>
+<a href="https://github.com/Sarfraz-Ssb/SSB">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Sarfraz-Ssb/SSB.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
+    <img alt="Forks" src="https://img.shields.io/github/forks/Sarfraz-Ssb/SSB.svg"/>
+  </a>
+</div>
+
+</br>
 <p align="center">
-<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+      FACEBOOK ACCOUNT CLONER
 </p>
-<p align="center">
-  <img alt="hmhtech' Github Stats" src="https://github-readme-stats.vercel.app/api?username=hmhtech&show_icons=true&include_all_commits=true&hide_border=true" />
-<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hmhtech&hide=ruby,perl&hide_border=true" />  -->
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03189392092-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/hmhtech"><img title="Author" src="https://img.shields.io/badge/Author-hmhtech-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/hmhtech/followers"><img title="Followers" src="https://img.shields.io/github/followers/hmhtech?color=blue&style=flat-square"></a>
-<a href="https://github.com/hmhtechhammas/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/hmhtech/hammas?color=red&style=flat-square"></a>
-<a href="https://github.com/hmhtech/hammas/network/members"><img title="Forks" src="https://img.shields.io/github/forks/hmhtech/hammas?color=red&style=flat-square"></a>
-<a href="https://github.com/hmhtech/hammas/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/hmhtech/hammas?label=Watchers&color=blue&style=flat-square"></a>
-</p>
+  
+#### INSTALL TOOL ON TERMUX
+```python
+ pkg update
+ pkg upgrade
+ pkg install python
+ pkg install git
+ pip install requests
+ pip install bs4
+ pip install futures
+ pip install mechanize
+ cd $HOME 
+ rm -rf SSB
+ git clone https://github.com/Sarfraz-Ssb/SSB
+```
+#### RUN SCRIPT
+```python
+ cd SSB
+ python SSB.py
+```
 
-# Installation :
 
-# FB ACCOUNTS CLONING TOOL
-TOOL DEVOLPED BY HAMMAS AHMAD WEB DEVELOPER.
-❤️❤️❤️❤️
+#### MY SOCIAL MEDIA
 
-🚀INSTALLATION METHOD🚀
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Sarfraz-Ssb) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/sarfraz.baloch.07) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://facebook.com/groups/3017062245271082/) <br>
 
-😈 `apt update && upgrade`
+<h2> THANKS FOR VISIT <h2\>
 
-😈 `pkg install python2`
-
-😈 `pkg install git`
-
-😈 `pip2 install requests`
-
-😈 `pip2 install mechanize`
-
-😈 `git clone https://github.com/hmhtech/hammas`
-
-😈 `cd hammas`
-
-😈 `python2 hmh`
-
-😈 UserName=`Hammas`
-
-😈UserPassword=`King`
-
-Now start Fastest Cloning fb Account without login 2022 Working Command
